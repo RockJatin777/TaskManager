@@ -1,0 +1,17 @@
+*{  
+    margin: 0;
+}
+
+.app-container{
+    padding: 24px;
+    background-color:aqua;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.main-head{
+    font-size: 38px;
+}
